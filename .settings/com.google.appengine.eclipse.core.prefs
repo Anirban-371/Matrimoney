@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+gaeDoJarClasses=false
+gaeEnableJarSplitting=true
+gaeRetainStagingDirectory=false
+validationExclusions=src/main/java/com/agile/property/datastorewebservice.java
